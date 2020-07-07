@@ -52,4 +52,4 @@ Referências:
 
 [9] Mysql 5 - Sistema de Gerenciamento de Banco de Dados - https://dev.mysql.com/downloads/mysql/
 
-Dúvidas, sugestões ou críticas entre em contato via e-mail armando@ufpi.edu.br
+
