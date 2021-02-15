@@ -25,7 +25,7 @@ Atualmente o projeto tem as seguintes funcionalidades:
 9. Páginas html responsivas com o uso do Bootstrap.
 
 Para rodar a aplicação:
-1. Baixe o projeto via clone da URL https://github.com/armandossrecife/app-spring-boot-jpa-security.git
+1. Baixe o projeto via clone da URL 
 2. Configure o projeto como MAVEN [8].
 3. Atualize as dependências via Maven Update Project.
 4. Crie um banco mysql [9] com nome listavip.
